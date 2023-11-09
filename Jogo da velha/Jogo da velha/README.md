@@ -1,14 +1,24 @@
-# Jogo da Velha
+# Jogo da Velha - Digital Innovation One ( DIO ) 
 
-Projeto produzido para um bootcamp em parceria com a [Digital Innovation One](https://digitalinnovation.one).
+## Descrição do Projeto
 
-# Descrição do projeto
-Neste projeto, desenvolvemos juntos um jogo da velha utilizando HTML, CSS e Javascript.
+Este projeto foi desenvolvido como parte do bootcamp da Digital Innovation One. Trata-se de um jogo da velha simples construído usando HTML, CSS e JavaScript.
 
-## Para rodar o projeto
+## Como Executar o Projeto
 
-Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
+Para executar o projeto, siga estas etapas simples:
 
-## Links
+1. Clone o repositório:
 
-[PPT utilizado](https://docs.google.com/presentation/d/1-ao-3echbBHzdSqRF726K4GUFMn7JoL0dhoJWyPORXY/edit?usp=sharing)
+   git clone https://github.com/seu-usuario/nome-do-seu-repositorio.git
+
+2. Navegue até o diretório do projeto:
+
+3. Abra o arquivo index.html em um navegador de sua preferência.
+
+4. Jogue o jogo da velha!
+
+## Tecnologias Utilizadas
+HTML
+CSS
+JavaScript

@@ -10,7 +10,7 @@ Para executar o projeto, siga estas etapas simples:
 
 1. Clone o repositório:
 
-   git clone https://github.com/seu-usuario/nome-do-seu-repositorio.git
+   git clone https://github.com/Leo12th/Jogo-da-Velha
 
 2. Navegue até o diretório do projeto:
 
